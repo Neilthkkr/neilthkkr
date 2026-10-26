@@ -7,7 +7,7 @@
 
 I like problems where physics, data, and design meet: race strategy, vehicle dynamics, aerodynamics. My projects follow the same loop: get the data or build the model, validate it against reality, and present what it shows.
 
-I am in the IB Diploma (**Maths AA HL, Physics HL, Chemistry HL**, all predicted 7) and am applying for Aerospace Engineering programmes in the UK, US, and Asia/Australia.
+I am in the IB Diploma (**Maths AA HL, Physics HL, Chemistry HL**, all predicted 7) and am applying for Aerospace Engineering programmes in the UK, US, and Asia.
 
 ## Selected Projects
 
