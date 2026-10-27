@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/nebula_banner_1200x300.png" alt="Nebula in deep space, captured by the James Webb Space Telescope" width="100%">
+</div>
+
 # Neil Thakkar
 
 **IB student building toward Aerospace Engineering, with motorsport data, CAD/CFD, and machine learning as my working tools.**
@@ -22,7 +26,6 @@ I am in the IB Diploma (**Maths AA HL, Physics HL, Chemistry HL**, all predicted
 
 ## Engineering: CAD, CFD and Builds
 
-<!-- TODO (Neil): name 2-3 concrete items, e.g. "Designed X in Fusion 360", "Ran CFD of Y in OpenFOAM/Ansys Fluent: result and what I learned", "Built Z". Specifics beat tool lists. -->
 - **CAD:** Fusion 360, SolidWorks, Onshape
 - **CFD:** OpenFOAM, Ansys Fluent, XFlow
 - **Physical builds:** TODO
@@ -45,4 +48,4 @@ I am in the IB Diploma (**Maths AA HL, Physics HL, Chemistry HL**, all predicted
 - **Languages:** Python, TypeScript/JavaScript, Swift, HTML/CSS
 - **ML and data:** pandas, NumPy, Matplotlib, FastF1, model training and evaluation, RAG
 - **Engineering:** Fusion 360, SolidWorks, Onshape, OpenFOAM, Ansys Fluent, XFlow
-- **Tools:** Git, GitHub Pages, Firebase, Vite
+- **Tools:** Git, GitHub Pages, Firebase, Vite, Arduino, Netlify
