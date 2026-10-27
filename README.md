@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/nebula_banner_1200x300.png" alt="Nebula in deep space, captured by the James Webb Space Telescope" width="100%">
+  <img src="nebula_banner_1200x300.png" alt="Nebula in deep space, captured by the James Webb Space Telescope" width="100%">
 </div>
 
 # Neil Thakkar
