@@ -13,6 +13,8 @@ I am in the IB Diploma (**Maths AA HL, Physics HL, Chemistry HL**, all predicted
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**LabLens**](https://github.com/Neilthkkr) | Privacy-first web app that reads PDF and photo lab reports in the browser, shows each value beside its reference range, and links it back to the source text. Parsing and OCR run on-device; the optional AI double-check requires consent. | Vanilla JavaScript (ES modules) · PDF.js · Tesseract.js · Netlify Functions · Gemini |
+| [**Active-Aero Lap Time Simulator**](https://github.com/Neilthkkr) | Fork of TUM's quasi-steady-state lap-time simulator, extended with active rear-wing AoA scheduling, a 2026 power-unit model, energy deployment analysis, and live servo control of a physical wing model. | Python 3.11 · Tkinter · Arduino + servo |
 | [**Singapore Optimal Strategy**](https://github.com/Neilthkkr/Singapore_Optimal_Strategy_Code) | F1 race-strategy analysis for my IB Maths IA: tyre degradation fitting from 2023 session data, multi-stint modelling, driver intercept analysis, and combinatorial strategy search with a validation step. | Python |
 | [**F1 Telemetry Viewer**](https://github.com/Neilthkkr/f1-telemetry-viewer) | Interactive web app for comparing laps: synchronised speed, throttle, brake, RPM, gear and DRS traces with a shared cursor, a track map, zoom and pan. | TypeScript · Plotly.js · Vite |
 | [**F1 Data Handling**](https://github.com/Neilthkkr/F1_DataHandling-Projects) | Motorsport analysis scripts built on FastF1: fastest-lap comparison, delta time, driver-vs-driver telemetry and circuit maps. | Python · FastF1 · pandas · Matplotlib |
